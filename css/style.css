@@ -1,0 +1,58 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://lh3.googleusercontent.com/Bmm_K_ws1DZsRS-p5QWVjbaxlnlcc-5m0CPpE4EBaWSJlgYCpFL8YwbSQUrGick1CWeWkjzG-gr-0i8DA0Wnn2H4aXKwREHmFd3XYC37BS-FNsze3G154cvQweDGl7EVtcvHvSWG5Mrrbf_xB1Ec4BWTUkUzrHcBhp0WrW1cY3e-gYZLxUrduqOuTWtIhP46Ksh-98sMkTp4wiYk4ToVsyriaGKXKYa3ymoUI0RWwZPXO1BcB6jNoMCBcYg7eVGgRl3HTtn9WywF3dHER966G1Tj8XLdKcGGj4U-zr6LpYJBE2zxD_3xF83P6CAmM71R3u-bEtHF9B-z81feiiOIdhuuToN818IjzDWoT7Q45vR_HSRR7rcvh3heR9dwth_c8AeO1XZfGAzj5AGozrwwRKO2YMEI2AVd4C55JtqCo_3D6gQlEq3XGK6uH4_C8vrwWIxrj13O9f9qo8DUw0NMZ_Cv5xbW51UbgrChJzODex5oQTllY-kcBei06S2a6dDufxAyJlVLFEutQi8RFhT9iQiG6J2G_n9yvSlRj4-5FQI0RcwaQwJ3HTVukvZf84JoEFUXowTfuRBATIFvFlAtweWQVlEUf5YcWfg5b3Wr6VK1CgjZw4038GHcGTas48jbNCt9fpFUBe0lJi1TdTZwk2HuZCD2QcVwCARNPMeRfzSCstAxRDZa41PZL6mJhIszmUmubiFYQrG5v-AwnDTok3Qa=w943-h937-no?authuser=0");
+  background-color: #000000;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #fff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #fff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: #fff;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+}

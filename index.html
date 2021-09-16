@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Conversor de Temperatura</title>
+    <link href="./css/style.css" rel="stylesheet" />
+    <script src="./javascript/js.js"></script>
+  </head>
+
+<div class="container">
+  <h1 class="page-title">
+    Conversor de Temperatura
+  </h1>
+  <p class="page-subtitle">
+    Converta Celsius para Fahrenheit e Kelvin
+  </p>
+
+  <label for="temperatura">Insira a temperatura em celsius</label><br>
+  <input type="number" id="celsius" size="2" /><br>
+  <button type="submit" onclick="Fahrenheit()">Fahrenheit</button>
+  <button type="submit" onclick="Kelvin()">Kelvin</button>
+  <h2 id="temperaturaConvertida"></h2>
+</div>
+</html>
